@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "limphack-f98fd",
+    "lah": "limphack-f98fd",
+    "limp": "limphack-f98fd"
+  },
+  "targets": {
+    "limphack-f98fd": {
+      "hosting": {
+        "limpopoannualhackathon": [
+          "lah.web.app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
